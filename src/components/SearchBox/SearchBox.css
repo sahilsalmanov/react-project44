@@ -1,0 +1,10 @@
+.form-control {
+    width: 300px;
+    height: 45px;
+}
+p {
+    width: 180px;
+}
+.col-sm-4 {
+    display: block;
+}

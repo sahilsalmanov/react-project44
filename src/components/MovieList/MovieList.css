@@ -1,0 +1,24 @@
+.m-3 {
+width: 300px;
+display: flex;
+justify-content: flex-start;
+}
+.general {
+    display: flex;
+    background-color: #ffeedb;
+    width: 900px;
+}
+img {
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.general-right {
+    margin-left: 20px;
+    margin-top: 40px;
+}
+button {
+    background-color: #496ddb;
+    border-color: #496ddb;
+}
